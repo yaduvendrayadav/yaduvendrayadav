@@ -19,5 +19,9 @@ Blockchain Innovator | Quantum Security Enthusiast | Creator of SphinQ
 - Diverse projects focusing on blockchain and cryptography
 - Creator of SphinQ: a groundbreaking blockchain solution
 
+## 📈 GitHub Stats
+
+![Yaduvendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=[yaduvendrayadav]&show_icons=true&theme=radical)
+
 ## ✨ Support My Work
 Interested in SphinQ or have ideas to share? Let's connect and collaborate towards a quantum-secure future!
