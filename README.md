@@ -3,7 +3,7 @@
 ## 🌍 About Me
 Blockchain Innovator | Quantum Security Enthusiast | Creator of Quranium
 
-🔭 Leading Quranium, a pioneering blockchain protocol integrating SPHINCS+ for enhanced security in the quantum era.
+🔭 Leading Quranium, a pioneering scalable blockchain protocol integrating Quantum Secure algorithm backed by NIST for enhanced security in the quantum era.
 👨‍💻 Passionate about leveraging blockchain for societal impact and technological advancement.
 🤝 Open to collaborations that push the boundaries of blockchain technology.
 
